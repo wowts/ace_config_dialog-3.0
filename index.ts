@@ -1,4 +1,3 @@
-import { Constructor, Library} from "@wowts/tslib";
 import { LuaObj } from "@wowts/lua";
 
 export class AceConfigDialog {
